@@ -1,0 +1,6 @@
+Container
+Fish
+Metal
+Mines
+People
+Plastic

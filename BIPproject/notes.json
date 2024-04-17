@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Container"
+    },
+    {
+      "id": 1,
+      "name": "Fish"
+    },
+    {
+      "id": 2,
+      "name": "Metal"
+    },
+    {
+      "id": 3,
+      "name": "Mines"
+    },
+    {
+      "id": 4,
+      "name": "People"
+    },
+    {
+      "id": 5,
+      "name": "Plastic"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
