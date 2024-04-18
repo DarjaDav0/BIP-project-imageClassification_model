@@ -1,0 +1,5 @@
+AnomalObjects
+Coral
+Divers(people)
+Fish
+Trash
